@@ -1,0 +1,16 @@
+
+/* Remove default App.css styles or keep them minimal */
+/* The global styles are now primarily in src/index.css with Tailwind */
+
+/* Example of keeping some base resets if needed, though Tailwind's preflight handles most */
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+/* Or, leave this file empty if all styles are handled by Tailwind and index.css */
+
